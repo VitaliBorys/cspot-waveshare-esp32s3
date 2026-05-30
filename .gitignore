@@ -1,0 +1,7 @@
+build/
+sdkconfig
+managed_components/
+main/credentials.h
+.vscode/
+*.pyc
+__pycache__/
